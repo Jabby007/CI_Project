@@ -1,7 +1,7 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>ca.uwo.csd.cs2212.USERNAME</groupId>
-  <artifactId>USERNAME-lab5</artifactId>
+  <groupId>jabby</groupId>
+  <artifactId>jabby007</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
 
@@ -17,6 +17,7 @@
       <version>4.11</version>
     </dependency>
   </dependencies>
+<<<<<<< HEAD
 <build>
   <plugins>
     <plugin>
@@ -41,4 +42,7 @@
     </plugin>
   </plugins>
 </build>
+=======
+
+>>>>>>> 0c427db9e4e6f0b2db7c97775a899fd048cb55ae
 </project>
